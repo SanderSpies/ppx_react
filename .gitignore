@@ -1,0 +1,5 @@
+src/_build
+src/ppx_react.native
+a.out
+test.c*
+testing.c*

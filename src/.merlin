@@ -1,0 +1,3 @@
+PKG compiler-libs ppx_tools.metaquot
+B src/_build/src
+S src
